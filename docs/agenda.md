@@ -1,21 +1,17 @@
 # Workshop Agenda
 
-September 19-20, 2023
+July 11, 2024
 
-08:00 AM - 13:00 PM Pacific Daylight Time (PDT)
+11:00 AM - 13:00 PM Pacific Daylight Time (PDT)
 
 #### Instructors(s): 
 
 - [Michele Cosi](https://cosimichele.github.io/){target=_blank} [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-7609-1939){target=_blank}
 
-- [Jeffrey K. Gillan PhD](https://www.gillanscience.com/){target=_blank} [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0731-3048){target=_blank}
-
-- [Carlos Lizárraga-Celaya PhD](https://carloslizarragac.github.io/){target=_blank} [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0893-4268){target=_blank}
-
 - [Tyson Lee Swetnam PhD](https://tysonswetnam.com/){target=_blank} [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181){target=_blank}
 
 
-## Agenda Tuesday 9/19
+## Agenda Thursday 7/11
 
 | :fontawesome-solid-hourglass-half: | Lessons | Instructor | Link |
 |------------------------------------|---------|------------|------|
@@ -30,21 +26,6 @@ September 19-20, 2023
 | 12:05 | [Session 5: DE Interactive Analyses](step8.md) | Tyson | |
 | 12:45 | Wrap-up / Q&A |  |
 
-
-## Agenda Wednesday 9/20
-
-| :fontawesome-solid-hourglass-half: | Lessons | Instructor | Link |
-|------------------------------------|---------|------------|------|
-| 08:00 | Review Day 1 Q&A | Tyson |  |
-| 08:15 | [Session 6: Data Store III (Metadata)](step6.md) | Tyson | 
-| 09:00 | Break |  |
-| 09:05 | [Session 7: Exploring VICE Apps ](step8.md) |  Jeff 
-| 10:00 | Break | |
-| 10:05 | [Session 8: Create Tools & Apps](https://learning.cyverse.org/de/create_apps/) | Tyson |
-| 10:30 | [Session 9: Teams & Communities](https://learning.cyverse.org/ds/teams/) | Michele | |
-| 11:00 | Break | | |
-| 11:05 | [Session 10: Cloud-Native Services]() | Edwin | |
-| 11:45 | Wrap-up / Q&A | 
 
 ## Code of Conduct
 
