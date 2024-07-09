@@ -2,7 +2,7 @@
 
 July 11, 2024
 
-11:00 AM - 13:00 PM Pacific Daylight Time (PDT)
+13:00 PM - 15:00 PM Pacific Daylight Time (PDT)
 
 #### Instructors(s): 
 
@@ -15,17 +15,14 @@ July 11, 2024
 
 | :fontawesome-solid-hourglass-half: | Lessons | Instructor | Link |
 |------------------------------------|---------|------------|------|
-| 09:00 | Introduction | Tyson | [Presentation: CyVerse](https://tinyurl.com/usfs-cyverse){target=_blank} |
-| 09:30 | [Session 1: Account Creation & User Portal](https://learning.cyverse.org/account/){target=_blank} | Tyson |[Workshop sign-up](https://user.cyverse.org/workshops/130){target=_blank} |
-| 10:00 | Break | |
-| 10:05 | [Session 2: Discovery Environment (DE) UI](step3.md) |  Tyson | [DE User Manual](https://learning.cyverse.org/de/){target=_blank} |
-| 10:30 | [Session 3: Data Store I](step4.md) | Michele | 
-| 11:00 | Break | | |
-| 11:05 | [Session 4: Data Store II](step5.md) | Michele | 
-| 12:00 | Break | | |
-| 12:05 | [Session 5: DE Interactive Analyses](step8.md) | Tyson | |
-| 12:45 | Wrap-up / Q&A |  |
-
+| 13:00 | Introduction | Tyson | [Presentation: CyVerse](https://tinyurl.com/usfs-cyverse){target=_blank} |
+| 13:10 | [Session 1: Account Creation & User Portal](https://learning.cyverse.org/account/){target=_blank} | Tyson ||
+| 13:15 | [Session 2: Discovery Environment (DE) UI](step3.md) |  Tyson | [DE User Manual](https://learning.cyverse.org/de/){target=_blank} |
+| 13:30 | [Session 3: Data Store I](step4.md) | Michele | 
+| 14:05 | [Session 4: Data Store II](step5.md) | Michele | 
+| 14:25 | [Session 5: DE Interactive Analyses](step8.md) | Tyson | |
+| 14:45 | Wrap-up / Q&A |  |
+| 15:00 | Adjourn | |
 
 ## Code of Conduct
 
