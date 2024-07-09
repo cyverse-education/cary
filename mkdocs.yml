@@ -58,6 +58,7 @@ theme:
   font:
     text: Nunito
     code: Courier
+  custom_dir: 'docs/overrides'
   features:
     - navigation.instant
     - navigation.tracking
