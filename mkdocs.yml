@@ -1,16 +1,16 @@
 docs_dir: docs/
-repo_name: 'cyverse-education/usfs'
-repo_url: 'https://github.com/cyverse-education/usfs'
+repo_name: 'cyverse-education/cary'
+repo_url: 'https://github.com/cyverse-education/cary'
 
-site_name: 'USFS CyVerse Self-Guided Course'
-site_description: 'USFS CyVerse Self-Guided Course'
+site_name: 'Cary Institute CyVerse Self-Guided Course'
+site_description: 'Cary Institute CyVerse Self-Guided Course'
 site_author: 'CyVerse'
-site_url: https://cyverse-education.github.io/usfs 
+site_url: https://cyverse-education.github.io/cary
 
 edit_uri: edit/main/docs
 
 # Copyright
-copyright: 'Copyright &copy; 2023 CyVerse USA'
+copyright: 'Copyright &copy; 2024 CyVerse USA'
 
 # Navigation Page
 
@@ -45,7 +45,7 @@ theme:
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: usfs-day
+      scheme: cary-day
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
