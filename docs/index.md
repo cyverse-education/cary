@@ -57,7 +57,7 @@ following services*
 
 | Platform | Interface | Link  | Platform Tour |
 |----------|-----------|-------|---------------|
-| [![DS](assets/de/menu_items/dataIcon.png){width="20"}](https://de.cyverse.org/data){target=_blank} [Data Store](https://de.cyverse.org/data){target=_blank} | GUI & CLI | [Data Store](https://cyverse.org/data-store){target=_blank}{target=_blank} | [Data Store Guide]() |              
+| [![DS](assets/de/menu_items/dataIcon.png){width="20"}](https://de.cyverse.org/data){target=_blank} [Data Store](https://de.cyverse.org/data){target=_blank} | GUI & CLI | [Data Store](https://cyverse.org/data-store){target=_blank} | [Data Store Guide](https://learning.cyverse.org/ds){target=_blank} |              
 | [![DE](assets/de/logos/deIcon.png){width="20"}](https://de.cyverse.org/data){target=_blank} [Discovery Environment](https://de.cyverse.org/de){target=_blank} | GUI | [DE](https://cyverse.org/discovery-environment) | [DE Guide](){target=_blank} |         
 
 ### Application(s) used
