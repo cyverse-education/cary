@@ -15,7 +15,7 @@ July 11, 2024
 
 | :fontawesome-solid-hourglass-half: | Lessons | Instructor | Link |
 |------------------------------------|---------|------------|------|
-| 13:00 | Introduction | Tyson | [Presentation: CyVerse](https://tinyurl.com/cary-cyverse){target=_blank} |
+| 13:00 | Introductions & airing of (data) grievances | All | [Presentation: CyVerse](https://tinyurl.com/cary-cyverse){target=_blank} |
 | 13:10 | [Session 1: Account Creation & User Portal](https://learning.cyverse.org/account/){target=_blank} | Tyson ||
 | 13:15 | [Session 2: Discovery Environment (DE) UI](step3.md) |  Tyson | [DE User Manual](https://learning.cyverse.org/de/){target=_blank} |
 | 13:30 | [Session 3: Data Store I](step4.md) | Michele | 
