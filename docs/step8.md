@@ -38,23 +38,13 @@ The Visual Interactive Computing Environment [![][vice]{width=30}](https://user.
 
 There are a few common categories of featured interactive applications:
 
-1.  Terminal Access
- 	- Basic Ubuntu Terminal: <a href="https://de.cyverse.org/apps/de/5f2f1824-57b3-11ec-8180-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/BASH-terminal-white?style=plastic&logo=gnometerminal"></a>
-
-    - LANDIS-II Command Line Interface: <a href="https://de.cyverse.org/apps/de/098f69c2-1d8e-11ed-9071-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/BASH-terminal-white?style=plastic&logo=gnometerminal"></a>
-
-2.  Integrated Development Environments (IDE)
-	- <a href="https://de.cyverse.org/apps/de/3031d3b0-15e7-11ee-847b-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/RStudio-4.3.1-blue?style=plastic&logo=r"></a>
-	- <a href="https://de.cyverse.org/apps/de/c2227314-1995-11ed-986c-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/Datascience-4.0.1-orange?style=plastic&logo=jupyter"></a>
- 	- <a href="https://de.cyverse.org/apps/de/091c830a-4be1-11ec-aad9-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-1.81.0-6C33AF?style=plastic&logo=visualstudiocode"></a>
-  
-3.  Web Server Applications
-  	
-    - StreamlitApps, ShinyApps, WebGL, HTML5, etc. 
-
-4.  Virtual Desktop Environments (e.g., Apache Guacamole, NoVNC, Kasm, Xpra)
-	- <a href="https://de.cyverse.org/apps/de/26e8dca0-550b-11ee-8aa2-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-22.04-green?style=plastic&logo=X.Org"></a>
-	- <a href="https://de.cyverse.org/apps/de/024c2762-5650-11ee-b5a4-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/QGIS-22.04-green?style=plastic&logo=qgis"></a>
+| Name | Dockerfile |
+|------|------------|
+| <a href="https://de.cyverse.org/apps/de/c2227314-1995-11ed-986c-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/Datascience-latest-orange?style=plastic&logo=jupyter"></a> |[JupyterLab Datascience](https://github.com/cyverse-vice/jupyterlab-datascience){target=_blank} |
+| <a href="https://de.cyverse.org/apps/de/3b5f5b16-19a5-11ed-b38a-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/Verse-latest-blue?style=plastic&logo=rstudio"></a>  | [RStudio Verse](https://github.com/cyverse-vice/rstudio-verse){target=_blank}|
+| <a href="https://de.cyverse.org/apps/de/5f2f1824-57b3-11ec-8180-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/CloudShell-bash-red?style=plastic&logo=ubuntu"></a> | [CloudShell](https://github.com/cyverse-vice/cli){target=_blank}| 
+| <a href="https://de.cyverse.org/apps/de/024c2762-5650-11ee-b5a4-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/KASM-Ubuntu-orange?style=plastic&logo=X.Org"></a>  | [KASM Ubuntu Desktop](https://github.com/cyverse-vice/kasm-ubuntu){target=_blank} |
+| <a href="https://de.cyverse.org/apps/de/091c830a-4be1-11ec-aad9-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-latest-6C33AF?style=plastic&logo=visualstudiocode"></a> | [VS Code](https://github.com/cyverse-vice/vscode){target=_blank} |
 
 CyVerse hosts the container recipes (Dockerfiles) of its featured apps on :material-github: GitHub: <https://github.com/cyverse-vice/>. 
 
